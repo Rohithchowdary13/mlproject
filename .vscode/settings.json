@@ -1,0 +1,5 @@
+{
+    "json.schemas": [],
+    "python.analysis.autoImportCompletions": true,
+    "python.analysis.addImport.exactMatchOnly": true
+}
